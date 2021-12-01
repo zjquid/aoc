@@ -1,0 +1,7 @@
+# this is the input values for the advent1 python program
+1721
+979
+366
+299
+675
+1456
